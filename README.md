@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ Soy Saúl López soy estudiante de matemáticas y apasionado por la tecnología, en este perfil encontraras programas interesantes de los lenguajes que conzco y 
+ aplicaciones de temas matemáticos que voy aprendiendo.
 <!--
 **saul-code/saul-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
